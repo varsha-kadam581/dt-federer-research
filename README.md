@@ -16,5 +16,5 @@ Hyderabad
 ## Files Included
 - strong_companies.xlsx
 - methodology.md
-- part-b-proposal.md
-- handwritten-diagram.jpg
+- part-b.md
+- workflow.jpg
